@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Ken Harder
 Installed-Size: 73
 Depends: mobilesubstrate
-Filename: ./com.Ken.applepencil_0.1.0-1+debug_iphoneos-arm.deb
+Filename: debs/com.Ken.applepencil_1.0.0_iphoneos-arm.deb
 Depiction: https://kharder69.github.io/repo/depictions/?p=com.Ken.applepencil
 Size: 78332
 MD5sum: 85c7a15779e559d23bbfd4aa958246aa
