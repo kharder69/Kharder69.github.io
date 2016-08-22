@@ -1,0 +1,23 @@
+<package>
+	<id>com.Ken.applepencil</id>
+	<name>Old Package</name>
+	<version>0.1.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This enables 3D touch using Apple Pencil on iPad Pro by pressing down on Apple Pencil with light force.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

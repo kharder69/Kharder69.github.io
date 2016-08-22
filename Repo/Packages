@@ -5,6 +5,7 @@ Maintainer: Ken Harder
 Installed-Size: 73
 Depends: mobilesubstrate
 Filename: ./com.Ken.applepencil_0.1.0-1+debug_iphoneos-arm.deb
+Depiction: https://kharder69.github.io/repo/depictions/?p=com.Ken.applepencil
 Size: 78332
 MD5sum: 85c7a15779e559d23bbfd4aa958246aa
 SHA1: 7019ffbe1895ebc72f3fdfb1fed9da8a189be868
@@ -14,19 +15,5 @@ Description: MobileSubstrate tweak to enable Apple Pencil 3D touch!
 Author: Ken Harder
 Name: ApplePencil
 
-Package: com.Ken.messagetimestamps
-Version: 0.1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: Ken Harder
-Installed-Size: 69
-Depends: mobilesubstrate
-Filename: ./com.Ken.messagetimestamps_0.1.0-1+debug_iphoneos-arm.deb
-Size: 72694
-MD5sum: 72a135112fb6acbaac50fdd0fd812b45
-SHA1: 4f7f7416bc21a3539b2d77c04a6755f216fdec4d
-SHA256: be9c6ab5e27acae2862364ed9096865264533adadce7496aa6d1baf60c3b0cf1
-Section: Tweaks
-Description: Display timestamps for all messages.
-Author: Ken Harder
-Name: Message Timestamps
+
 

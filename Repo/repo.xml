@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Contact me on reddit</name>
+			<url>https://www.reddit.com/user/Shutterfriend/</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Ken Harder</name>
+			<url>https://kharder69.github.io</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
